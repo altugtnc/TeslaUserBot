@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/altugtnc/teslabot"
+  "repository": "https://github.com/altugtnc/TeslaUserBot"
   "success_url": "https://t.me/TeslaUserBot",
   "stack": "container",
   "env": {
